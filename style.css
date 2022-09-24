@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .a {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  margin: 60px;
+}
+.b {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+.c {
+  width: 300px;
+  height: 300px;
+  background-color: blue;
+} */
+body {
+  background-color: #ddc5a2;
+}
+.fa-brands {
+  margin: 0 10px;
+  background-color: rgb(20, 18, 18);
+  border: none;
+  border-radius: 70px;
+  padding: 30px;
+  font-size: 100px;
+}
+.block {
+  margin: 150px 250px;
+}
+.fa-twitter {
+  color: #00acee;
+}
+.fa-telegram {
+  color: #0088cc;
+}
+.fa-instagram {
+  color: #c13584;
+}
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-github {
+  color: white;
+}
